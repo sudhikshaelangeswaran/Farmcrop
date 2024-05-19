@@ -5,7 +5,7 @@
     <style>
         body {
             font-family: 'Open Sans', sans-serif;
-            background-color: #ffffff;
+            background: linear-gradient(to bottom, #ffffff, #ffffff, #273a18);
             display: flex;
             flex-direction: column;
             align-items: center;
@@ -48,7 +48,7 @@
         .framcrop-form label {
             display: block;
             margin-bottom: 5px;
-            font-size: 14px;
+            font-size: 19px;
             font-weight: bold;
         }
         .framcrop-form input[type="text"],

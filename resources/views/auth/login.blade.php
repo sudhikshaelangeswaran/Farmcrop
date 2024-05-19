@@ -5,7 +5,7 @@
     <style>
         body {
             font-family: 'Open Sans', sans-serif;
-            background-color: #ffffff;
+            background: linear-gradient(to bottom, #ffffff, #ffffff, #273a18);
             display: flex;
             flex-direction: column;
             align-items: center;
