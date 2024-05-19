@@ -1,13 +1,13 @@
 /* General styling */
-body {
+.content {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-image: url('../public/images/farm.jpg');
+    background-image: url('../images/farm.jpg');
     background-size: cover;
     background-position: center;
   }
- 
+
 
 /* Navbar */
 .navbar {
@@ -64,9 +64,9 @@ body {
     background-color: white;
     border-radius: 10px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    
+
   }
-  
+
   .welcome-text {
     color: #3f643e;
     font-size: 3rem;
